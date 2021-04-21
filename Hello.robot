@@ -6,4 +6,3 @@ Variables         Hello.robot    ${HELLO}    # Hello world
 Landing page
     [Documentation]    Hello world setup
     Log    Hello World Robot
-    Log    ${HELLO}
