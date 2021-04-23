@@ -1,6 +1,5 @@
 *** Settings ***
 Documentation     Hello Robot Suites
-Variables         Hello.robot    ${HELLO}    # Hello world
 
 *** Test Cases ***
 Landing page
