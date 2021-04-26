@@ -1,0 +1,6 @@
+.git*
+.dockerignore
+log/*
+tmp/*
+Dockerfile
+reports
